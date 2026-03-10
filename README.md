@@ -18,4 +18,4 @@ List of efix to install on VIOS by version.
 | [perl advisory 12](https://aix.software.ibm.com/aix/efixes/security/perl_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix12.tar)| Installs with updateios |
 | [openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)||
 | ~~[openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)~~| Superseded by advisory 46|
-| ~~[openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)||
+| [openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)||

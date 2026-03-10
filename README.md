@@ -1,3 +1,5 @@
+_Last update: 2026/03/10_
+
 # VIOS efix
 
 List of efix to install on VIOS by version.
@@ -15,4 +17,5 @@ List of efix to install on VIOS by version.
 | [bind advisory 29](https://aix.software.ibm.com/aix/efixes/security/bind_advisory29.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix29.tar)| Only applies if bind.rte is installed (not the case by default) |
 | [perl advisory 12](https://aix.software.ibm.com/aix/efixes/security/perl_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix12.tar)| Installs with updateios |
 | [openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)||
-| [openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)||
+| ~~[openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)~~| Superseded by advisory 46|
+| ~~[openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)||

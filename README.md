@@ -1,4 +1,4 @@
-_Last update: 2026/03/18_
+_Last update: 2026/04/03_
 
 # VIOS efix
 
@@ -21,3 +21,4 @@ List of efix to install on VIOS by version.
 | [openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)||
 | [perl advisory 13](https://aix.software.ibm.com/aix/efixes/security/perl_advisory13.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix13.tar)| Installs with updateios |
 | [python advisory 18](https://aix.software.ibm.com/aix/efixes/security/python_advisory18.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix18.tar)|  |
+| [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |

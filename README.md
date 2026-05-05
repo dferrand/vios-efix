@@ -1,4 +1,4 @@
-_Last update: 2026/04/016_
+_Last update: 2026/05/05_
 
 # VIOS efix
 
@@ -18,9 +18,10 @@ List of efix to install on VIOS by version.
 | ~~[perl advisory 12](https://aix.software.ibm.com/aix/efixes/security/perl_advisory12.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/perl_fix12.tar)~~| ~~Installs with updateios~~ Superseded by advisory 13 |
 | [openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)||
 | ~~[openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)~~| Superseded by advisory 46|
-| [openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)||
+| ~~[openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)~~| Superseded by advisory 47|
 | [perl advisory 13](https://aix.software.ibm.com/aix/efixes/security/perl_advisory13.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix13.tar)| Installs with updateios |
 | ~~[python advisory 18](https://aix.software.ibm.com/aix/efixes/security/python_advisory18.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix18.tar)~~| ~~Installs with updateios~~  Superseded by advisory 19|
 | [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
 | [python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar) | Installs with updateios |
+| [openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar) ||

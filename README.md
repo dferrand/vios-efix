@@ -1,4 +1,4 @@
-_Last update: 2026/05/29_
+_Last update: 2026/06/06_
 
 # VIOS efix
 
@@ -14,7 +14,7 @@ List of efix to install on VIOS by version.
 | ---- | -------- | ---- |
 | ~~[libxml2 advisory 10](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory10.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix10.tar)~~| Superseded by advisory 11 |
 | [Xorg advisory 5](https://aix.software.ibm.com/aix/efixes/security/xorg_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/xorg_fix5.tar)||
-| [bind advisory 29](https://aix.software.ibm.com/aix/efixes/security/bind_advisory29.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix29.tar)| Only applies if bind.rte is installed (not the case by default) |
+| ~~[bind advisory 29](https://aix.software.ibm.com/aix/efixes/security/bind_advisory29.asc)~~| ~~[download](https://aix.software.ibm.com/aix/efixes/security/bind_fix29.tar)~~| ~~Only applies if bind.rte is installed (not the case by default)~~ Superseded by advisory 30 |
 | ~~[perl advisory 12](https://aix.software.ibm.com/aix/efixes/security/perl_advisory12.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/perl_fix12.tar)~~| ~~Installs with updateios~~ Superseded by advisory 13 |
 | ~~[openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)~~ | Superseded by advisory 21 |
 | ~~[openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)~~| Superseded by advisory 46|
@@ -27,3 +27,4 @@ List of efix to install on VIOS by version.
 | [openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar) ||
 | [libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)| |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
+| [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |

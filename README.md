@@ -1,4 +1,4 @@
-_Last update: 2026/07/06_
+_Last update: 2026/07/15_
 
 # VIOS efix
 
@@ -23,8 +23,9 @@ List of efix to install on VIOS by version.
 | ~~[python advisory 18](https://aix.software.ibm.com/aix/efixes/security/python_advisory18.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix18.tar)~~| ~~Installs with updateios~~  Superseded by advisory 19|
 | [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
-| [python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar) | Installs with updateios |
+| ~~[python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 20 |
 | [openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar) ||
 | [libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)| |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
+| [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |

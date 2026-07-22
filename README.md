@@ -1,14 +1,26 @@
-_Last update: 2026/07/15_
+_Last update: 2026/07/22_
 
 # VIOS efix
 
 List of efix to install on VIOS by version.
+
+## 4.1.2.10
+
+| Release | EOS | Next SP |
+| ------- | --- | ------- |
+| 2026.07.17 | 2028.12.31 | 2027.02.26 |
+
+| efix | download | note |
+| ---- | -------- | ---- |
+| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc.sig) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
+| [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
 
 ## 4.1.2.0
 
 | Release | EOS | Next SP |
 | ------- | --- | ------- |
 | 2025.12.05 | 2028.12.31 | 2026.07.17 |
+
 
 | efix | download | note |
 | ---- | -------- | ---- |
@@ -24,8 +36,10 @@ List of efix to install on VIOS by version.
 | [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
 | ~~[python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 20 |
-| [openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar) ||
+| ~~[openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar)~~ | Superseded by advisory 48 |
 | [libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)| |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
 | [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |
+| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc.sig) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
+| [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |

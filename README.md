@@ -12,7 +12,7 @@ List of efix to install on VIOS by version.
 
 | efix | download | note |
 | ---- | -------- | ---- |
-| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
+| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
 
 ## 4.1.2.0
@@ -41,5 +41,5 @@ List of efix to install on VIOS by version.
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
 | [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |
-| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
+| [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |

@@ -1,10 +1,20 @@
-_Last update: 2026/07/26_
+_Last update: 2026/08/17_
 
 # VIOS efix
 
 List of efix to install on VIOS by version.
 
+## 4.1.2.20
+
+| Release | EOS | Next SP |
+| ------- | --- | ------- |
+| 2026.08.14 | 2028.12.31 | 2027.02.26 |
+
+_eFixes to be determined_
+
 ## 4.1.2.10
+
+### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
 
 | Release | EOS | Next SP |
 | ------- | --- | ------- |
@@ -17,6 +27,8 @@ List of efix to install on VIOS by version.
 | [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |
 
 ## 4.1.2.0
+
+### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
 
 | Release | EOS | Next SP |
 | ------- | --- | ------- |

@@ -10,7 +10,9 @@ List of efix to install on VIOS by version.
 | ------- | --- | ------- |
 | 2026.08.14 | 2028.12.31 | 2027.02.26 |
 
-_eFixes to be determined_
+| efix | download | note |
+| ---- | -------- | ---- |
+_No security efix currently!_
 
 ## 4.1.2.10
 

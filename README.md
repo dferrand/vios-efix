@@ -12,6 +12,7 @@ List of efix to install on VIOS by version.
 
 | efix | download | note |
 | ---- | -------- | ---- |
+
 _No security efix currently!_
 
 ## 4.1.2.10

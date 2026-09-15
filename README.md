@@ -1,4 +1,4 @@
-_Last update: 2026/08/17_
+_Last update: 2026/09/15_
 
 # VIOS efix
 
@@ -12,8 +12,7 @@ List of efix to install on VIOS by version.
 
 | efix | download | note |
 | ---- | -------- | ---- |
-
-_No security efix currently!_
+| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 
 ## 4.1.2.10
 
@@ -27,7 +26,8 @@ _No security efix currently!_
 | ---- | -------- | ---- |
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
-| [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |
+| ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
+| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 
 ## 4.1.2.0
 
@@ -56,6 +56,7 @@ _No security efix currently!_
 | [libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)| |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
-| [python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar) | Installs with updateios |
+| ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
+| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |

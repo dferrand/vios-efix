@@ -1,4 +1,4 @@
-_Last update: 2026/09/15_
+_Last update: 2026/09/28_
 
 # VIOS efix
 
@@ -13,6 +13,7 @@ List of efix to install on VIOS by version.
 | efix | download | note |
 | ---- | -------- | ---- |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 
 ## 4.1.2.10
 
@@ -28,6 +29,7 @@ List of efix to install on VIOS by version.
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 
 ## 4.1.2.0
 
@@ -47,7 +49,7 @@ List of efix to install on VIOS by version.
 | ~~[openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)~~ | Superseded by advisory 21 |
 | ~~[openssl advisory 45](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory45.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix45.tar)~~| Superseded by advisory 46|
 | ~~[openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)~~| Superseded by advisory 47|
-| [perl advisory 13](https://aix.software.ibm.com/aix/efixes/security/perl_advisory13.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix13.tar)| Installs with updateios |
+| ~~[perl advisory 13](https://aix.software.ibm.com/aix/efixes/security/perl_advisory13.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/perl_fix13.tar)~~| ~~Installs with updateios~~ Superseded by advisory 14 |
 | ~~[python advisory 18](https://aix.software.ibm.com/aix/efixes/security/python_advisory18.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix18.tar)~~| ~~Installs with updateios~~  Superseded by advisory 19|
 | [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
@@ -60,3 +62,4 @@ List of efix to install on VIOS by version.
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |

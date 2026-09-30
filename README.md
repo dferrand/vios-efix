@@ -14,7 +14,7 @@ List of efix to install on VIOS by version.
 | ---- | -------- | ---- |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
-| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar)) | |
+| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar]) | |
 ## 4.1.2.10
 
 ### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
@@ -30,7 +30,7 @@ List of efix to install on VIOS by version.
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
-| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar)) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
+| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar]) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
 ## 4.1.2.0
 
 ### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
@@ -63,4 +63,4 @@ List of efix to install on VIOS by version.
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
-| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar)) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
+| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download]([https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar]) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |

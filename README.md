@@ -1,4 +1,4 @@
-_Last update: 2026/09/30_
+_Last update: 2026/10/06_
 
 # VIOS efix
 
@@ -15,6 +15,8 @@ List of efix to install on VIOS by version.
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | |
+| [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
+
 ## 4.1.2.10
 
 ### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
@@ -31,6 +33,8 @@ List of efix to install on VIOS by version.
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
+| [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
+
 ## 4.1.2.0
 
 ### ⚠️ About 150 CVEs have been fixed in 4.1.2.20, IBM strongly recommends addressing those vulnerabilities, see [bulletin](https://aix.software.ibm.com/aix/efixes/security/aix_vios_advisory.asc).
@@ -51,7 +55,7 @@ List of efix to install on VIOS by version.
 | ~~[openssl advisory 46](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory46.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix46.tar)~~| Superseded by advisory 47|
 | ~~[perl advisory 13](https://aix.software.ibm.com/aix/efixes/security/perl_advisory13.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/perl_fix13.tar)~~| ~~Installs with updateios~~ Superseded by advisory 14 |
 | ~~[python advisory 18](https://aix.software.ibm.com/aix/efixes/security/python_advisory18.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix18.tar)~~| ~~Installs with updateios~~  Superseded by advisory 19|
-| [postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar) | Installs with updateios |
+| ~~[postgres_advisory](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 2 |
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
 | ~~[python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 20 |
 | ~~[openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar)~~ | Superseded by advisory 48 |
@@ -64,3 +68,4 @@ List of efix to install on VIOS by version.
 | [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
+| [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |

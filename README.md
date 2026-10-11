@@ -17,7 +17,7 @@ List of efix to install on VIOS by version.
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
-| [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one |
+| [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 
 ## 4.1.2.10
 

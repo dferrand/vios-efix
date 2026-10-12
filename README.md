@@ -1,4 +1,4 @@
-_Last update: 2026/10/11_
+_Last update: 2026/10/12_
 
 # VIOS efix
 
@@ -18,6 +18,7 @@ List of efix to install on VIOS by version.
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
+| [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 
 ## 4.1.2.10
 
@@ -37,6 +38,7 @@ List of efix to install on VIOS by version.
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one. openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
+| [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 
 ## 4.1.2.0
 
@@ -73,5 +75,6 @@ List of efix to install on VIOS by version.
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one. openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
+| [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 
 

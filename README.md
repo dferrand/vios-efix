@@ -1,4 +1,4 @@
-_Last update: 2026/10/12_
+_Last update: 2026/10/19_
 
 # VIOS efix
 
@@ -19,6 +19,7 @@ List of efix to install on VIOS by version.
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
+| [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 
 ## 4.1.2.10
 
@@ -39,6 +40,7 @@ List of efix to install on VIOS by version.
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
+| [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 
 ## 4.1.2.0
 
@@ -76,5 +78,6 @@ List of efix to install on VIOS by version.
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
+| [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 
 

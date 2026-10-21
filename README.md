@@ -1,4 +1,4 @@
-_Last update: 2026/10/19_
+_Last update: 2026/10/21_
 
 # VIOS efix
 
@@ -13,13 +13,14 @@ List of efix to install on VIOS by version.
 | efix | download | note |
 | ---- | -------- | ---- |
 | [openssh advisory 22](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix22.tar) |  |
-| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| ~~[python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 22 |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
+| [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
 
 ## 4.1.2.10
 
@@ -34,13 +35,14 @@ List of efix to install on VIOS by version.
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
-| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| ~~[python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 22 |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios |
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one. openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
+| [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
 
 ## 4.1.2.0
 
@@ -72,12 +74,12 @@ List of efix to install on VIOS by version.
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
-| [python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar) | Installs with updateios |
+| ~~[python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 22 |
 | [perl advisory 14](https://aix.software.ibm.com/aix/efixes/security/perl_advisory14.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix14.tar)| Installs with updateios | 
 | [openssl advisory 49](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory49.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix49.tar) | ⚠️ Fix was updated on 2026/10/09, make sure to download and apply the new one. openssl advisory 48 must be installed first, advisory 49 does not supersed advisory 48! |
 | [postgres advisory 2](https://aix.software.ibm.com/aix/efixes/security/postgres_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/postgres_fix2.tar) | Installs with updateios |
 | [rsyslog advisory 2](https://aix.software.ibm.com/aix/efixes/security/rsyslog_advisory2.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rsyslog_fix2.tar) | Only applies if rsyslog.base is installed (not the case by default) |
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
-
+| [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
 

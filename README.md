@@ -21,6 +21,8 @@ List of efix to install on VIOS by version.
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 | [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
+| [libxml2 advisory 12](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix12.tar) |  |
+| [ntp_tmux advisory 15](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_fix15.tar) | Installs with updateios |
 
 ## 4.1.2.10
 
@@ -43,6 +45,8 @@ List of efix to install on VIOS by version.
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 | [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
+| [libxml2 advisory 12](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix12.tar) |  |
+| [ntp_tmux advisory 15](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_fix15.tar) | Installs with updateios |
 
 ## 4.1.2.0
 
@@ -68,7 +72,7 @@ List of efix to install on VIOS by version.
 | [IBM.SoftwareRM memory leak](https://www.ibm.com/support/pages/node/7262728) | [download](https://aix.software.ibm.com/aix/ifixes/ij57520/) | Only needed if HMC is connected to a CMC that is part of a PEP 2.0 |
 | ~~[python advisory 19](https://www.ibm.com/support/pages/node/7269653?myns=swgother&mynp=OCSWG10&mynp=OCSSPHKW&mync=E&cm_sp=swgother-_-OCSWG10-OCSSPHKW-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix19.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 20 |
 | ~~[openssl advisory 47](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory47.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix47.tar)~~ | Superseded by advisory 48 |
-| [libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)| |
+| ~~[libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)~~ | Superseded by advisory 12 |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
@@ -82,4 +86,5 @@ List of efix to install on VIOS by version.
 | [rpm advisory 5](https://aix.software.ibm.com/aix/efixes/security/rpm_advisory5.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/rpm_fix5.tar) | Installs with updateios |
 | [java_oct2026 advisory](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_advisory.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/java_oct2026_fix.tar) | Installs with updateios |
 | [python advisory 22](https://aix.software.ibm.com/aix/efixes/security/python_advisory22.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/python_fix22.tar) | Installs with updateios |
-
+| [libxml2 advisory 12](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix12.tar) |  |
+| [ntp_tmux advisory 15](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_fix15.tar) | Installs with updateios |

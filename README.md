@@ -24,6 +24,7 @@ List of efix to install on VIOS by version.
 | [libxml2 advisory 12](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix12.tar) |  |
 | [ntp_tmux advisory 15](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_fix15.tar) | Installs with updateios |
 | [openssl advisory 50](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix50.tar) |  |
+| ~~[bind advisory 31](https://aix.software.ibm.com/aix/efixes/security/bind_advisory31.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/bind_fix31.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 32 |
 | [bind advisory 32](https://aix.software.ibm.com/aix/efixes/security/bind_advisory32.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix32.tar) | Only applies if bind.rte is installed (not the case by default). Installs with updateios |
 | [perl advisory 15](https://aix.software.ibm.com/aix/efixes/security/perl_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix15.tar) | Installs with updateios |
 
@@ -38,6 +39,7 @@ List of efix to install on VIOS by version.
 | efix | download | note |
 | ---- | -------- | ---- |
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
+| ~~[openssh advisory 20](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory20.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix20.tar)~~ | Superseded by advisory 21 |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | ~~[python advisory 21](https://aix.software.ibm.com/aix/efixes/security/python_advisory21.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix21.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 22 |
@@ -51,6 +53,7 @@ List of efix to install on VIOS by version.
 | [libxml2 advisory 12](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory12.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix12.tar) |  |
 | [ntp_tmux advisory 15](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/ntp_tmux_fix15.tar) | Installs with updateios |
 | [openssl advisory 50](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory50.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssl_fix50.tar) | openssl advisory 48 must be installed first, advisory 50 does not supersed advisory 48! |
+| ~~[bind advisory 31](https://aix.software.ibm.com/aix/efixes/security/bind_advisory31.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/bind_fix31.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 32 |
 | [bind advisory 32](https://aix.software.ibm.com/aix/efixes/security/bind_advisory32.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix32.tar) | Only applies if bind.rte is installed (not the case by default). Installs with updateios |
 | [perl advisory 15](https://aix.software.ibm.com/aix/efixes/security/perl_advisory15.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/perl_fix15.tar) | Installs with updateios |
 
@@ -81,6 +84,7 @@ List of efix to install on VIOS by version.
 | ~~[libxml2 advisory 11](https://aix.software.ibm.com/aix/efixes/security/libxml2_advisory11.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/libxml2_fix11.tar)~~ | Superseded by advisory 12 |
 | [openssh advisory 21](https://aix.software.ibm.com/aix/efixes/security/openssh_advisory21.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/openssh_fix21.tar) | |
 | [bind advisory 30](https://aix.software.ibm.com/aix/efixes/security/bind_advisory30.asc)| [download](https://aix.software.ibm.com/aix/efixes/security/bind_fix30.tar)| Only applies if bind.rte is installed (not the case by default). Installs with updateios |
+| ~~[bind advisory 31](https://aix.software.ibm.com/aix/efixes/security/bind_advisory31.asc)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/bind_fix31.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 32 |
 | ~~[python advisory 20](https://www.ibm.com/support/pages/node/7280096?myns=swgother&mynp=OCSSPHKW&mynp=OCSWG10&mync=E&cm_sp=swgother-_-OCSSPHKW-OCSWG10-_-E)~~ | ~~[download](https://aix.software.ibm.com/aix/efixes/security/python_fix20.tar)~~ | ~~Installs with updateios~~ Superseded by advisory 21 |
 | [openssl advisory 48](https://aix.software.ibm.com/aix/efixes/security/openssl_advisory48.asc) | [download](https://www-01.ibm.com/marketing/iwm/iwm/web/pickUrxNew.do?source=aixbp&S_PKG=openssl) | Installs with updateios. Warning, first download in the list is version 3.5.0.1000 which is a tech preview, download version 3.0.21.1000 instead. |
 | [zlib advisory 3](https://aix.software.ibm.com/aix/efixes/security/zlib_advisory3.asc) | [download](https://aix.software.ibm.com/aix/efixes/security/zlib_fix3.tar) | |
